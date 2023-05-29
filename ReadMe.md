@@ -11,7 +11,7 @@
 只有一个例子：`examples/sandbox.rs`，用
 
 ```bash
-cargo run --example sandbox
+cargo run --example sandbox --release
 ```
 
 运行。
